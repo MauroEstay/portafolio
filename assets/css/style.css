@@ -13,27 +13,30 @@ body {
   background-size: contain;
   background-position: center;
   padding-bottom: 10rem;
-  opacity: 0.9;
+  /* opacity: 0.9; */
 }
 
 #header h1 {
-  font-family: 'Pacifico', cursive;
-  font-size: 150px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 100px;
   color: #ffffff;
 }
 
 #header span {
-  font-family: 'Pacifico', cursive;
-  font-size: 50px;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 100px;
   color: #ffffff;
 }
 
 .fondo-color {
-  background-color: #660066;
+  /* background-color: #660066; */
+  background: linear-gradient(360deg,#949494 10%,#efefef 360%);
+  /* #201240
+  #949494 */
 }
 
 .utrabajos h2{
-  color: #ffffff;
+  color: #black;
   font-weight: bold;
 
 }
@@ -57,7 +60,7 @@ footer span {
 }
 
 .experiencia {
-  color: #660066;
+  color: #3D403E;
 }
 
 .experiencia h1 {
