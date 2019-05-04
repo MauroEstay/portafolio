@@ -1,7 +1,42 @@
- header {
+ #header {
   background-image: url('../img/header.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
   padding-bottom: 10rem;
+}
+
+.fondo-color {
+  background-color: #660066;
+}
+
+.utrabajos h2{
+  color: #ffffff;
+  font-weight: bold;
+
+}
+
+
+footer {
+  color: #ffffff;
+}
+
+footer a {
+  color: #ffffff;
+}
+
+footer h2 {
+  font-weight: bold;
+}
+
+.experiencia {
+  color: #660066;
+}
+
+.experiencia h1 {
+  font-weight: bold;
+}
+
+.contacto h2 {
+  font-weight: bold;
 }
