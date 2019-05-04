@@ -1,9 +1,31 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar span {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+}
+
  #header {
   background-image: url('../img/header.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
   padding-bottom: 10rem;
+  opacity: 0.9;
+}
+
+#header h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 150px;
+  color: #ffffff;
+}
+
+#header span {
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  color: #ffffff;
 }
 
 .fondo-color {
@@ -27,6 +49,11 @@ footer a {
 
 footer h2 {
   font-weight: bold;
+}
+
+footer span {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
 }
 
 .experiencia {
